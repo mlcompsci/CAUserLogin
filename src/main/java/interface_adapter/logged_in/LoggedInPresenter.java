@@ -27,6 +27,6 @@ public class LoggedInPresenter implements ChangePasswordOutputBoundary {
 
     @Override
     public void prepareFailView(String error) {
-        // (Missing Implemented) Update the viewmodel!
+        // Update the viewpoint
     }
 }
